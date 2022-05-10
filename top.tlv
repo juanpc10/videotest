@@ -2,7 +2,7 @@
 \SV
 
    // =================================================
-   // Welcome!  New to Makerchip? Try the "Learn" menu.
+   // Nuevos cambios
    // =================================================
 
    // Default Makerchip TL-Verilog Code Template
